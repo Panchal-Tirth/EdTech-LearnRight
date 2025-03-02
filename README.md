@@ -30,7 +30,7 @@ Ensure you have the following installed:
 
 ### 📥 Clone the Repository
 ```bash
-git clone
+git clone https://github.com/Panchal-Tirth/EdTech-LearnRight.git
 cd EdTech-LearnRight
 ```
 
